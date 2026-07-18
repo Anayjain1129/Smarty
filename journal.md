@@ -23,3 +23,8 @@ aight now i have completed the bottom case and barebone of top! now i have to mo
 <img width="1361" height="863" alt="image" src="https://github.com/user-attachments/assets/78870666-508b-4cad-a56b-70eb3d9c2ba7" />
 
 **Total time spent: 1hr 11min**
+
+# July 18th: Submitting the project! 
+so i have completed the cad and everything and setted up the github too and now i jsut need to submit!! 
+
+**Total time spent: 31 min**
