@@ -28,7 +28,7 @@ Features:
 <img width="1134" height="720" alt="image" src="https://github.com/user-attachments/assets/795e9759-a809-422e-b4aa-853e24ad39b8" />
 <img width="1165" height="798" alt="image" src="https://github.com/user-attachments/assets/a6f691b5-e3b2-45e9-9a17-e12d95335b5f" />
 
-#BOM
+# BOM
 | Name                   | Quantity | Cost   | Link         |
 | ---------------------- | -------- | ------ | ------------ |
 | PAJ7620 Gesture Sensor | 1        | $0.00  | Self-sourced |
