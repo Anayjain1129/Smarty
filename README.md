@@ -29,8 +29,13 @@ Features:
 <img width="1165" height="798" alt="image" src="https://github.com/user-attachments/assets/a6f691b5-e3b2-45e9-9a17-e12d95335b5f" />
 
 #BOM
-1x PAJ7620
-1x 1.8inch RGB TFT 
-1x ESP32-C3
+| Name                   | Quantity | Cost   | Link         |
+| ---------------------- | -------- | ------ | ------------ |
+| PAJ7620 Gesture Sensor | 1        | $0.00  | Self-sourced |
+| 1.8" RGB TFT Display   | 1        | $0.00  | Self-sourced |
+| ESP32-C3               | 1        | $0.00  | Self-sourced |
+| PCB                    | 5        | $20.00 | JLCPCB       |
+| Screws                 | 1        | $0.00  | Self-sourced |
 
+Total Cost: 20$
 NOTE: the firmware is just a barebone/template made by meee i will still need to work on it when i get the hardware physically
