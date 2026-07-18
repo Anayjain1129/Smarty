@@ -25,6 +25,10 @@ aight now i have completed the bottom case and barebone of top! now i have to mo
 **Total time spent: 1hr 11min**
 
 # July 18th: Submitting the project! 
-so i have completed the cad and everything and setted up the github too and now i jsut need to submit!! 
+so i have completed the cad and everything and setted up the github too and now i jsut need to submit!! yea so i completed the the full cad and setted up the repo and submittedd!! 
+<img width="1298" height="847" alt="image" src="https://github.com/user-attachments/assets/afe69d29-bef3-4c28-973a-e7742999b6f3" />
+<img width="1368" height="824" alt="image" src="https://github.com/user-attachments/assets/72a4bc7d-64f8-443e-aa6c-97866fa1729e" />
+<img width="1165" height="798" alt="image" src="https://github.com/user-attachments/assets/83b069a8-decb-472d-b5fc-46c48b1a5ea7" />
+
 
 **Total time spent: 31 min**
