@@ -17,3 +17,9 @@ okayyy soo i have fixed that other project and resubmitted it and started to wor
 
 okay so now i have completed my schematics, assigned footprints and now im done with PCB aswell so yea! time to make a pretty pretty case for this!! 
 <img width="999" height="726" alt="image" src="https://github.com/user-attachments/assets/37d2b9bf-9ee0-4000-a3b2-eeb3013cd194" />
+
+aight now i have completed the bottom case and barebone of top! now i have to move to my room liek really quick cause my laptop battery is running low!!! here are the images! 
+<img width="1538" height="894" alt="image" src="https://github.com/user-attachments/assets/e49875b1-65a1-412b-be5d-fe4c5992ed07" />
+<img width="1361" height="863" alt="image" src="https://github.com/user-attachments/assets/78870666-508b-4cad-a56b-70eb3d9c2ba7" />
+
+**Total time spent: 1hr 11min**
