@@ -10,3 +10,7 @@ so i just completed one project and it got rejected because i do not have BOM fo
 <img width="990" height="894" alt="image" src="https://github.com/user-attachments/assets/e07903ef-4c27-4584-8c40-2c0ee17a9c31" />
 
 **Total time spent: 53 mins**
+
+# July 18th: Fixed the schematics 
+okayyy soo i have fixed that other project and resubmitted it and started to work on smarty again!! and then i suddenly got to know that the connections of esp32 to screen were wrong so i just looked what were the right pins and fixed the connections! and now we are done with schematics now i just need to assign footporints and then we move to PCB
+<img width="798" height="820" alt="image" src="https://github.com/user-attachments/assets/cbfc3b98-3f24-4cf6-bc0c-53e96e0a79d7" />
